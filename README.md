@@ -1,6 +1,6 @@
 # indecision-app
 Decision making application created using React.
 
-![](indecision gif.gif)
+![Indecision App Demo](indecision.gif)
 
 To run app: `live-server public`
