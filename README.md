@@ -3,7 +3,7 @@ A decision-making application for indecisive individuals and groups. Enter your 
 
 # Screen Capture Demo
 
-![Indecision App Demo](https://github.com/rselkirk/indecision-app/blob/master/Indecision%20gif.gif))
+![Indecision App Demo](https://github.com/rselkirk/indecision-app/blob/master/Indecision%20gif.gif)
 
 # Tech Stack
 Built with:
